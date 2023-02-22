@@ -46,6 +46,3 @@ let Score = 0
 basic.forever(function () {
     Images[Score].showImage(0)
 })
-basic.forever(function () {
-	
-})
